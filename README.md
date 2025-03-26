@@ -1,8 +1,22 @@
- 👋 About Me:
+Hi there 👋
 
-🚀 I’m currently working as Full-Stack developer  
-🤝 I’m looking to collaborate on IA projects  
-🌱 I’m currently learning IA  
+ About Me:
+
+I’m Lucas Hernán Donato, a passionate Full-Stack Developer and UI/UX enthusiast from Argentina.
+
+🔭 I’m currently working on personal and freelance projects in web development.
+
+🌱 I’m currently learning advanced JavaScript, Django, and AI applications.
+
+👯 I’m looking to collaborate on exciting web and AI-based projects.
+
+💬 Ask me about JavaScript, Python, Django, UI/UX Design, and SQL.
+
+📫 How to reach me: lucasdonato540@gmail.com
+
+⚡ Fun fact: I love working on user-friendly interfaces that make an impact!
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tuusuario) 
