@@ -6,7 +6,7 @@ I’m Lucas Hernán Donato, a passionate Full-Stack Developer and UI/UX enthusia
 
 🔭 I’m currently working on personal and freelance projects in web development.
 
-🌱 I’m currently learning advanced JavaScript, Django, and AI applications.
+🌱 I’m currently learning IA.
 
 👯 I’m looking to collaborate on exciting web and AI-based projects.
 
